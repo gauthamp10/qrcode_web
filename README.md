@@ -3,6 +3,7 @@ A dead simple qrcode generator on web.
 
 ### See it action : https://qrcodeweb--gauthamprakash.repl.co/
 
+![Screenie](https://imgur.com/2QohBRW.png)
 
 ### Author
 
